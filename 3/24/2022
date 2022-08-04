@@ -1,0 +1,11 @@
+{MMS={_id=4, thread_id=2, date=1653164384, date_sent=1653164384, msg_box=1, read=1, m_id=1205BEC89CCE0000F1600007, ct_t=application/vnd.wap.multipart.related, ct_l=http://63.55.66.55/servlets/mms?message-id=1205BEC89CCE0000F160000701, m_cls=personal, m_type=132, v=16, m_size=420, pri=129, rr=129, tr_id=1205BEC89CCE0000F160000701, d_rpt=128, locked=0, sub_id=1, seen=1, creator=com.samsung.android.messaging, sim_slot=0, deletable=0, hidden=0, app_id=0, msg_id=0, callback_set=0, reserved=0, text_only=1, spam_report=0, secret_mode=0, safe_message=0, favorite=0, d_rpt_st=0, rr_st=0, using_mode=0, re_type=0, thread_classification=0, pin_to_top=-1, source_id=4, transaction_id=0}, ADDRESS=[{_id=10, msg_id=4, address=2512337854, type=137, charset=106, transaction_id=0}, {_id=11, msg_id=4, address=2514247475, type=151, charset=106, transaction_id=0}, {_id=12, msg_id=4, address=4792507148, type=151, charset=106, transaction_id=0}, {_id=13, msg_id=4, address=8507307787, type=151, charset=106, transaction_id=0}, {_id=14, msg_id=4, address=2519492543, type=151, charset=106, transaction_id=0}, {_id=15, msg_id=4, address=2517527732, type=151, charset=106, transaction_id=0}, {_id=16, msg_id=4, address=2564737229, type=151, charset=106, transaction_id=0}], GROUP_ADDR=[8507307787, 2564737229, 2512337854, 2514247475, 2517527732, 4792507148], PART=[{_id=3, mid=4, seq=-1, ct=application/smil, name=smil.xml, chset=3, cid=<smil>, cl=smil.xml, text=<smil>
+    <head>
+        <layout>
+            <root-layout width="240" height="160"/>
+            <region id="Image" width="100%" height="67%" left="0%" top="0%" fit="meet"/>
+            <region id="Text" width="100%" height="33%" left="0%" top="67%" fit="meet"/>
+        </layout>
+    </head>
+    <body>
+    <par dur="8000ms"><text src="text.000000.txt" region="Text"/></par></body>
+</smil>, sef_type=0}, {_id=4, mid=4, seq=0, ct=text/plain, name=text.000000.txt, chset=106, cid=<text.000000>, cl=text.000000.txt, text=I'm getting it now, sef_type=0}]}
